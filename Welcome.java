@@ -8,6 +8,7 @@ public class Welcome {
 		
 		System.out.println("Welcome to the java first program");
 
+
 	}
 
 }
